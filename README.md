@@ -98,16 +98,6 @@ Helps users make environmentally conscious decisions.
 * User accounts and progress dashboards
 * Mobile application integration
 
-## Working Model Screenshots
-
-### Working Model - View 1
-![Working Model View 1](Screenshots/screenshot0.png)
-
-### Working Model - View 2
-![Working Model View 2](Screenshots/screenshot1.png)
-
-### Working Model - View 3
-![Working Model View 3](Screenshots/screenshot2.png)
 
 ---
 
