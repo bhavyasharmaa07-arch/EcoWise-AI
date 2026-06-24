@@ -104,10 +104,10 @@ Helps users make environmentally conscious decisions.
 ![Working Model View 1](1.png)
 
 ### Working Model - View 2
-![Working Model View 2](1.1.png)
+![Working Model View 2](./1.1.png)
 
 ### Working Model - View 3
-![Working Model View 3](1.2.png)
+![Working Model View 3](./1.2.png)
 
 ---
 
