@@ -101,13 +101,13 @@ Helps users make environmentally conscious decisions.
 ## Working Model Screenshots
 
 ### Working Model - View 1
-![Working Model View 1](screenshot0.png)
+![Working Model View 1](Screenshots/screenshot0.png)
 
 ### Working Model - View 2
-![Working Model View 2](screenshot1.png)
+![Working Model View 2](Screenshots/screenshot1.png)
 
 ### Working Model - View 3
-![Working Model View 3](screenshot2.png)
+![Working Model View 3](Screenshots/screenshot2.png)
 
 ---
 
